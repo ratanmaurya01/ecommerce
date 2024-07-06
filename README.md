@@ -4,10 +4,9 @@ In react.js website
 
 
          Adim Part:
+![Screenshot 2024-07-06 152328](https://github.com/ratanmaurya01/ecommerce/assets/151978027/0e45029d-431c-4943-af1a-ce8947a3fe51)
 
-        ![image](https://github.com/ratanmaurya01/ecommerce/assets/151978027/67683836-29e6-49cb-8a11-cf4fe823fff4)
         
-
       
 When I click on place Button then show data in Order list without refresh page 
           Consumer Part:
