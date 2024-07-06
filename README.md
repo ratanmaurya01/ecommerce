@@ -3,10 +3,12 @@ Process :
 In react.js website
 
 
-         Adim Part  
-         ![image](https://github.com/ratanmaurya01/ecommerce/assets/151978027/765f75a0-e694-455e-8642-526a7bc9c1f3)
+         Adim Part:
+         ![image](https://github.com/ratanmaurya01/ecommerce/assets/151978027/31d6cba7-3a12-4b88-acd1-a57dd60b29c1)
 
- 
+
+
+      
 When I click on place Button then show data in Order list without refresh page 
           Consumer Part:
         ![image](https://github.com/ratanmaurya01/ecommerce/assets/151978027/9a6d09a9-814e-4105-9491-75966a6f9b8a)
